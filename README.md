@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafiul</h1>
-![MERN Stack Banner](https://github.com/rafiul-neti/rafiul-neti/raw/main/github.png)
+[MERN Stack Banner](https://github.com/rafiul-neti/rafiul-neti/raw/main/github.png)
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **MongoDB, Express, Node, React**
