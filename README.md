@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rafiul</h1>
-![MERN Stack Banner](https://github.com/rafiul-neti/rafiul-neti/blob/main/GithubBanner.png)
 <img align="center" src="https://github.com/rafiul-neti/rafiul-neti/blob/main/GithubBanner.png" alt="irafiul210" />
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
