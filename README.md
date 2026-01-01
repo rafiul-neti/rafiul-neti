@@ -33,8 +33,6 @@
   />
 </div> -->
 
----
-
 <!-- 🚀 Skills -->
 <h2 align="center">Technologies I Work With</h2>
 
