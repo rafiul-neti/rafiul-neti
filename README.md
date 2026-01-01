@@ -49,36 +49,30 @@
 ---
 
 <!-- 💬 Stay Connected -->
-<h2 align="center">Stay Connected 🤝</h2>
+<h2 align="center">Let’s Stay Connected</h2>
 
 <div align="center">
 
-  <!-- Place some gap between each icon -->
   <a href="mailto:irafiul210@gmail.com">
-    <img 
+    <img
       src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&theme=dark&bg=%231DE9B6&shape=circle&size=48"
-      alt="Email Me"
+      alt="Email"
     />
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://twitter.com/irafiul210">
-    <img 
+    <img
       src="https://readmecodegen.vercel.app/api/social-icon?name=twitter&theme=dark&bg=%231DE9B6&shape=circle&size=48"
       alt="Twitter"
     />
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/irafiul210">
-    <img 
+    <img
       src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&theme=dark&bg=%231DE9B6&shape=circle&size=48"
       alt="LinkedIn"
-    />
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/rafiul-neti">
-    <img 
-      src="https://readmecodegen.vercel.app/api/social-icon?name=github&theme=dark&bg=%231DE9B6&shape=circle&size=48"
-      alt="GitHub"
     />
   </a>
 
