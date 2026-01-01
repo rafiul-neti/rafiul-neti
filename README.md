@@ -19,8 +19,7 @@
 <h2 align="center">Consistency & Contribution</h2>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=rafiul-neti" alt="GitHub Streak" width="90%" />
-
+<img src="https://streak-stats.demolab.com?user=rafiul-neti&background=0C1C20&ring=D7B517&fire=D7B517&currStreakNum=B6E1ED&currStreakLabel=B6E1ED&sideNums=B6E1ED&sideLabels=3C64A4&dates=FFFFFF" alt="GitHub Streak" width="90%" />
 </div>
 
 ---
