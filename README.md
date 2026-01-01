@@ -17,15 +17,7 @@
 <div align="center" width="90%">
   <!-- Streak Stats (matching colors from your banner: assume dark-blue & cyan accents) -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul-neti
-      &background=0A1D37
-      &fire=1DE9B6
-      &ring=1DE9B6
-      &currStreakNum=FFFFFF
-      &currStreakLabel=1DE9B6
-      &sideLabels=FFFFFF
-      &dates=FFFFFF
-    " 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul-neti&background=0A1D37&fire=1DE9B6&ring=1DE9B6&currStreakNum=FFFFFF&currStreakLabel=1DE9B6&sideLabels=FFFFFF&dates=FFFFFF" 
     alt="Rafiul’s GitHub Streak Stats" 
     width="90%"
   />
