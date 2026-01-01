@@ -20,7 +20,7 @@
 
   <!-- GitHub Overall Stats -->
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rafiul-neti&show_icons=true&theme=transparent&bg_color=0A1D37&title_color=1DE9B6&text_color=FFFFFF&icon_color=1DE9B6&border_color=0A1D37" alt="Rafiul’s GitHub Stats" width="90%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rafiul-neti&show_icons=true&theme=transparent&bg_color=0A1D37&title_color=1DE9B6&text_color=FFFFFF&icon_color=1DE9B6&border_color=0A1D37" alt="Rafiul’s GitHub Stats" width="90%" />  -->
 </div>
 
 ---
