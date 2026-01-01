@@ -1,96 +1,115 @@
 <h1 align="center">Hi 👋, I'm Rafiul</h1>
 
-<p align="center">
+<!-- Banner -->
+<div align="center">
   <img 
     src="https://github.com/rafiul-neti/rafiul-neti/blob/main/GithubBanner.png" 
-    alt="Rafiul GitHub Banner" 
+    alt="rafiul-neti banner"
+    width="90%"
   />
-</p>
+</div>
 
-<h3 align="center">
-  A passionate MERN Stack Developer from Bangladesh
-</h3>
+<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
 ---
 
-### 🔥 Coding Consistency & Contribution Streak
+<!-- 🌟 Streak + GitHub Stats -->
+<div align="center" width="90%">
+  <!-- Streak Stats (matching colors from your banner: assume dark-blue & cyan accents) -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul-neti
+      &background=0A1D37
+      &fire=1DE9B6
+      &ring=1DE9B6
+      &currStreakNum=FFFFFF
+      &currStreakLabel=1DE9B6
+      &sideLabels=FFFFFF
+      &dates=FFFFFF
+    " 
+    alt="Rafiul’s GitHub Streak Stats" 
+    width="90%"
+  />
+
+  <!-- GitHub Overall Stats -->
+  <br><br>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rafiul-neti
+      &show_icons=true
+      &theme=transparent
+      &bg_color=0A1D37
+      &title_color=1DE9B6
+      &text_color=FFFFFF
+      &icon_color=1DE9B6
+      &border_color=0A1D37
+    "
+    alt="Rafiul’s GitHub Stats"
+    width="90%"
+  />
+</div>
+
+---
+
+<!-- 🚀 Skills Section -->
+<h2 align="center">Tools & Technologies I Excel In</h2>
 
 <p align="center">
-  <img 
-    width="90%" 
-    src="https://streak-stats.demolab.com?
-    user=rafiul-neti
-    &theme=dark
-    &background=0F172A
-    &ring=38BDF8
-    &fire=22C55E
-    &currStreakLabel=38BDF8
-    &sideLabels=E5E7EB
-    &dates=E5E7EB" 
-    alt="GitHub Streak Stats" 
-  />
+  <!-- Line 1: Front-End / Core -->
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/></a>
+</p>
+
+<p align="center">
+  <!-- Line 2: Back-End / DB / Tools -->
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/></a>
+  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/></a>
+  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/></a>
+  <a href="https://github.com/rafiul-neti"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/></a>
 </p>
 
 ---
 
-### 🧰 Tools & Technologies I Work With
+<!-- 💬 Stay Connected -->
+<h2 align="center">Stay Connected 🤝</h2>
 
-<p align="left">
-  <!-- Line 1 -->
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" />
-  </a>
-</p>
+<div align="center">
 
-<p align="left">
-  <!-- Line 2 -->
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" />
+  <!-- Place some gap between each icon -->
+  <a href="mailto:irafiul210@gmail.com">
+    <img 
+      src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&theme=dark&bg=%231DE9B6&shape=circle&size=48"
+      alt="Email Me"
+    />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://twitter.com/irafiul210">
+    <img 
+      src="https://readmecodegen.vercel.app/api/social-icon?name=twitter&theme=dark&bg=%231DE9B6&shape=circle&size=48"
+      alt="Twitter"
+    />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/irafiul210">
+    <img 
+      src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&theme=dark&bg=%231DE9B6&shape=circle&size=48"
+      alt="LinkedIn"
+    />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/rafiul-neti">
+    <img 
+      src="https://readmecodegen.vercel.app/api/social-icon?name=github&theme=dark&bg=%231DE9B6&shape=circle&size=48"
+      alt="GitHub"
+    />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" />
-  </a>
-</p>
+
+</div>
 
 ---
 
-### 🤝 Let’s Stay Connected
-
-<p align="left">
-  <a href="https://twitter.com/irafiul210" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-      height="35" 
-    />
-  </a>
-  <a href="https://linkedin.com/in/irafiul210" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      height="35" 
-    />
-  </a>
+<p align="center">
+  Thanks for visiting! 🚀
 </p>
-
-📫 **Email:**  
-[irafiul210@gmail.com](mailto:irafiul210@gmail.com)
