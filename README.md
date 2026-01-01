@@ -16,27 +16,11 @@
 <!-- 🌟 Streak + GitHub Stats -->
 <div align="center" width="90%">
   <!-- Streak Stats (matching colors from your banner: assume dark-blue & cyan accents) -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul-neti&background=0A1D37&fire=1DE9B6&ring=1DE9B6&currStreakNum=FFFFFF&currStreakLabel=1DE9B6&sideLabels=FFFFFF&dates=FFFFFF" 
-    alt="Rafiul’s GitHub Streak Stats" 
-    width="90%"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul-neti&background=0A1D37&fire=1DE9B6&ring=1DE9B6&currStreakNum=FFFFFF&currStreakLabel=1DE9B6&sideLabels=FFFFFF&dates=FFFFFF" alt="Rafiul’s GitHub Streak Stats" width="90%" />
 
   <!-- GitHub Overall Stats -->
   <br><br>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=rafiul-neti
-      &show_icons=true
-      &theme=transparent
-      &bg_color=0A1D37
-      &title_color=1DE9B6
-      &text_color=FFFFFF
-      &icon_color=1DE9B6
-      &border_color=0A1D37
-    "
-    alt="Rafiul’s GitHub Stats"
-    width="90%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafiul-neti&show_icons=true&theme=transparent&bg_color=0A1D37&title_color=1DE9B6&text_color=FFFFFF&icon_color=1DE9B6&border_color=0A1D37" alt="Rafiul’s GitHub Stats" width="90%" />
 </div>
 
 ---
